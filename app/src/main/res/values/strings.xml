@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComposeTutorial</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main_game_screen">MainGameScreen</string>
+
+    <string name="login">Login</string>
+    <string name="google_sign_in">Sign in with Google</string>
+    <string name="guest_sign_in">Continue as Guest</string>
+    <string name="login_welcome">Welcome</string>
+</resources>
